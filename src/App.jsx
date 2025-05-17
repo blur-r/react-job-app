@@ -1,5 +1,5 @@
 import useJobs from './hooks/useJobs';
-import JobCard from './components/jobCard';
+import JobCard from './components/JobCards';
 import FilterPanel from './components/FilterPanel';
 import ThemeToggle from './components/ThemeToggle';
 import { useTheme } from './contexts/ThemeContext';

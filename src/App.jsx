@@ -13,7 +13,7 @@ function App() {
     <div className={`app ${darkMode ? 'dark' : ''}`}>
       <div className="container">
         <header>
-          <h1>JOBS</h1>
+          <h1>Job Board</h1>
           <ThemeToggle />
         </header>
 
